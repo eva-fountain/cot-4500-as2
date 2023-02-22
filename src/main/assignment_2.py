@@ -77,4 +77,3 @@ print(final_approx3)
 # Can't quite get this working
 # Still learning Python
 # :(
-hermite_interpolation()
